@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Light.Abp.AuditLogging.Application", "src\Light.Abp.AuditLogging.Application\Light.Abp.AuditLogging.Application.csproj", "{F0F1FF0F-CFBB-4171-AF82-5EF72CE804E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Light.Abp.AuditLogging.Application.Contracts", "src\Light.Abp.AuditLogging.Application.Contracts\Light.Abp.AuditLogging.Application.Contracts.csproj", "{D88E50A2-1779-48F6-AC63-87C241030D78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0F1FF0F-CFBB-4171-AF82-5EF72CE804E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F1FF0F-CFBB-4171-AF82-5EF72CE804E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F1FF0F-CFBB-4171-AF82-5EF72CE804E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F1FF0F-CFBB-4171-AF82-5EF72CE804E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88E50A2-1779-48F6-AC63-87C241030D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88E50A2-1779-48F6-AC63-87C241030D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88E50A2-1779-48F6-AC63-87C241030D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88E50A2-1779-48F6-AC63-87C241030D78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5CFB48C-3C80-4854-A86E-DD85DAF58DBC}
+	EndGlobalSection
+EndGlobal
