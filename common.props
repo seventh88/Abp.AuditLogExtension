@@ -6,7 +6,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Seventh88</Authors>
     <Description>AuditLog Application</Description>
-    <PackageProjectUrl>https://github.com/seventh88/Abp.AuditLogExtension/PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/seventh88/Abp.AuditLogExtension</PackageProjectUrl>
     <RepositoryUrl>https://github.com/seventh88/Abp.AuditLogExtension</RepositoryUrl>
     <PackageTags>abp module AuditLog </PackageTags>
     <Company>Seventh88</Company>
