@@ -27,5 +27,7 @@ namespace Volo.Abp.AuditLogging
         public bool? HasException { get; set; }
 
         public HttpStatusCode? HttpStatusCode { get; set; }
+        public Guid? UserId { get; set; }
+        public string ClientIpAddress { get; set; }
     }
 }
