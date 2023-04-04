@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Light.Abp.AuditLogging.Appl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Light.Abp.AuditLogging.Application.Contracts", "src\Light.Abp.AuditLogging.Application.Contracts\Light.Abp.AuditLogging.Application.Contracts.csproj", "{D88E50A2-1779-48F6-AC63-87C241030D78}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001", "001", "{3DC67392-CF79-4D6E-B76F-3EA779FACFE7}"
+	ProjectSection(SolutionItems) = preProject
+		common.props = common.props
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
